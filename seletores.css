@@ -1,0 +1,27 @@
+a {
+    color: red;
+}
+a:hover{
+    
+    color: lime;
+    
+}
+
+p{
+    font-family: 'Arial';
+}
+
+h1+ p{
+    font-weight: bold;
+}
+
+.destaque {
+
+    font-family: Arial;
+}
+.destaque {
+    font-weight: bold;
+}
+strong.destaque{
+    color: red;
+}
