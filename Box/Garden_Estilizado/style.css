@@ -1,0 +1,23 @@
+html{
+    background: #511259 ;
+    color: #D9D9D9 ;
+
+    font-size: 24px;
+    font-family: Helvetica, sans-serif ;
+}
+p {
+    text-indent: 1em;
+}
+
+h1,h2,h3{
+    text-align:center;
+}
+
+h1{font-size: 1.8rem ;}
+h2{font-size: 1.4rem ;}
+h3{font-size: 1.2rem ;}
+
+
+.summary{text-align: right;}
+.main p {line-height: 1.5;}
+abbr{font-variant: small-caps;}
