@@ -139,11 +139,11 @@ a:hover {
     color:#68ca277a
 }
 
-.main p:first-of-type : ::first-letter { 
+.main p:first-of-type :first-letter { 
 
     font-size: 3em;
     font-family: 'Times New Roman', Times, serif;
-    float: :left;
+    float:left;
 }
 
 .design-selection li {
@@ -151,7 +151,7 @@ a:hover {
     padding-top: 5px;
 }
 
-.design-selection li: :last-of-type{
+.design-selection li:last-of-type{
  border-bottom: #d9d9d9 solid 1px;
  padding-bottom: 5px;
 }
