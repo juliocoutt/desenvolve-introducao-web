@@ -156,20 +156,21 @@ a:hover {
  padding-bottom: 5px;
 }
 
-@media  and (max-width: 768px) {
+@media screen and (max-width: 768px) 
+{
 
     .design-selection {
         position: static;
-        width: 100%
+        width: 100%;
     }
 
     .explanation{
         border-right: none;
-        width: :100%;
+        width:100%;
     }
 
     #zen-intro{
-        height: :auto;
+        height:auto;
     }
 
     .participation{
@@ -181,7 +182,7 @@ a:hover {
     }
 }
 
-@média print {
+@media print {
     html
     {
         font-family: 'Times New Roman', Times, serif;
